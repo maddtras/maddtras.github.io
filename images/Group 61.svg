@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176.334" height="133.491" viewBox="0 0 176.334 133.491">
+  <defs>
+    <linearGradient id="linear-gradient55" x1="0.894" y1="0.822" x2="0.221" y2="0.181" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e4ff50"/>
+      <stop offset="1" stop-color="#4cf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient55-2" x1="0.879" y1="0.897" x2="-0.077" y2="0.418" xlink:href="#linear-gradient55"/>
+  </defs>
+  <g id="Group_61" data-name="Group 61" transform="translate(3)">
+    <g id="Group_51" data-name="Group 51" transform="translate(21)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="37.222" cy="37.222" r="37.222" transform="translate(54.883 59.047)" fill="url(#linear-gradient55)"/>
+      <path id="Union" d="M17.1,5.181a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,17.1,5.181Zm14.506,0a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,31.6,5.181Zm0,14.506a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,31.6,19.687ZM34.193,31.6a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,34.193,31.6ZM31.6,48.7a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,31.6,48.7Zm2.59,11.916a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,34.193,60.615ZM19.687,17.1a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,19.687,17.1Zm-2.59,17.1a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,17.1,34.193Zm2.59,11.916a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,19.687,46.109Zm-2.59,17.1a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,17.1,63.205ZM5.181,8.807a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,5.181,8.807ZM2.59,25.9A2.59,2.59,0,1,0,0,23.313,2.59,2.59,0,0,0,2.59,25.9ZM5.181,37.82a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,5.181,37.82Zm-2.59,17.1A2.59,2.59,0,1,0,0,52.326,2.59,2.59,0,0,0,2.59,54.916ZM48.7,8.807a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,48.7,8.807Zm-2.59,17.1a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,46.109,25.9ZM48.7,37.82a2.59,2.59,0,1,1-2.59-2.59A2.59,2.59,0,0,1,48.7,37.82Zm-2.59,17.1a2.59,2.59,0,1,0-2.59-2.59A2.59,2.59,0,0,0,46.109,54.916Z" fill-rule="evenodd" fill="url(#linear-gradient55-2)"/>
+    </g>
+    <g id="Group_60" data-name="Group 60" transform="translate(0 28.488)">
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="86.864" height="77.229" rx="16" transform="translate(41.832)" fill="#fff" stroke="#000d27" stroke-width="6"/>
+      <path id="microchip" d="M24.512,14.484a2.228,2.228,0,0,0-2.062,1.393H20.055V10.863H22.45a2.228,2.228,0,1,0,0-1.671H19.937A3.336,3.336,0,0,0,17.549,6.8V4.291a2.229,2.229,0,1,0-1.672,0V6.685H10.863V4.291a2.228,2.228,0,1,0-1.671,0V6.8A3.337,3.337,0,0,0,6.8,9.192H4.291a2.228,2.228,0,1,0,0,1.671H6.685v5.014H4.291a2.228,2.228,0,1,0,0,1.671H6.8a3.336,3.336,0,0,0,2.388,2.388v2.512a2.23,2.23,0,1,0,1.672,0V20.055h5.014V22.45a2.228,2.228,0,1,0,1.671,0V19.937a3.336,3.336,0,0,0,2.388-2.388h2.512a2.228,2.228,0,1,0,2.063-3.065Zm-6.685,2.228a1.115,1.115,0,0,1-1.114,1.114H10.028a1.115,1.115,0,0,1-1.114-1.114V10.028a1.115,1.115,0,0,1,1.114-1.114h6.685a1.115,1.115,0,0,1,1.114,1.114Z" transform="translate(71.474 25.283)" fill="#000d27" opacity="0.2"/>
+      <g id="Group_59" data-name="Group 59" transform="translate(0 28.042)">
+        <g id="Group_57" data-name="Group 57" transform="translate(144.786)">
+          <path id="Path_267" data-name="Path 267" d="M475.183,1759.644h25.547" transform="translate(-475.183 -1759.644)" fill="none" stroke="#000d27" stroke-linecap="round" stroke-width="6"/>
+          <path id="Path_268" data-name="Path 268" d="M475.183,1759.644h25.547" transform="translate(-475.183 -1737.578)" fill="none" stroke="#000d27" stroke-linecap="round" stroke-width="6"/>
+        </g>
+        <g id="Group_58" data-name="Group 58">
+          <path id="Path_267-2" data-name="Path 267" d="M475.183,1759.644h25.547" transform="translate(-475.183 -1759.644)" fill="none" stroke="#000d27" stroke-linecap="round" stroke-width="6"/>
+          <path id="Path_268-2" data-name="Path 268" d="M475.183,1759.644h25.547" transform="translate(-475.183 -1737.578)" fill="none" stroke="#000d27" stroke-linecap="round" stroke-width="6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
