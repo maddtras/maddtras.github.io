@@ -77,9 +77,9 @@ $(document).ready(function () {
 	if (countDownEl) {
 		$('.count-down').syotimer({
 			year: 2021,
-			month: 5,
-			day: 9,
-			hour: 20,
+			month: 1,
+			day: 22,
+			hour: 12,
 			minute: 30
 		});
 	}
