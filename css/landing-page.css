@@ -1,5 +1,5 @@
 body {
-  font-family: "Playfair Display", serif;
+  font-family: "Hachi Maru Pop  ", serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -9,7 +9,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Hachi Maru Pop  ", serif;
 }
 
 h2 {
@@ -18,7 +18,7 @@ h2 {
 
 p,
 .btn {
-  font-family: "Poppins", serif;
+  font-family: "Hachi Maru Pop  ", serif;
   color: #777;
   font-size: 16px;
 }

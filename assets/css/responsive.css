@@ -1,0 +1,132 @@
+/* ======= Responsive Css ==========*/
+
+@media(max-width:1600px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media (max-width: 1450px) {}
+
+@media only screen and (max-width: 1280px) {}
+
+@media only screen and (max-width:1025px) {
+	.background-round {
+		display: none;
+	}
+	.navbar {
+		-webkit-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+		box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+	}
+	.hero-right svg {
+		width: 100%;
+	}
+	.navbar li a {
+		color: #4e5ac3;
+	}
+	.navbar-light .navbar-nav>.nav-item>a {
+		color: #171717;
+	}
+	.navbar-nav>.nav-item>.nav-link.active,
+	.navbar-nav>.nav-item>.nav-link:focus,
+	.navbar-nav>.nav-item>.nav-link:hover {
+		color: #4e5ac3;
+	}
+	.btn-nav {
+		background: #4e5ac3!important;
+		color: #fff!important;
+	}
+	.hero-left,
+	.hero-right {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.hero-section-image {
+		position: relative;
+	}
+	.hero-section-image:after {
+		background: #4e5ac3;
+		content: '';
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 30%;
+		z-index: -1;
+	}
+	.hero-data h1,
+	.hero-data p {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 990px) {
+	.hero-data {
+		padding-top: 10vh;
+	}
+	.navbar {
+		background: #fff;
+		padding: 10px;
+	}
+	.hero-top {
+		font-size: 25px;
+	}
+	.a-rever {
+		flex-direction: column-reverse;
+	}
+	.about-inner {
+		text-align: center;
+	}
+	.counter-list li {
+		width: 100%;
+		border-right: 1px solid rgba(0, 13, 39, 0);
+	}
+	.con-inner {
+		padding: 40px;
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.con-left {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.con-right {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+	}
+	.footer-list li {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	.about-inner {
+		margin-bottom: 50px;
+	}
+	.about-left {
+		padding-bottom: 50px;
+	}
+	p {
+		text-align: center;
+	}
+	.con-inner {
+		flex-wrap: wrap;
+	}
+	.footer-list {
+		flex-wrap: wrap;
+	}
+}
+
+@media (max-width: 500px) {
+	.hero-right {
+		display: none;
+	}
+	.hero-data {
+		padding-top: 0;
+	}
+	.hero-section-image:after {
+		content: none;
+	}
+}
+
+@media(max-width:350px) {}
